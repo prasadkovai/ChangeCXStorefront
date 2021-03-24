@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Category___en",
+    "path": "/Category",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Category.vue",
+    "chunkName": "_theme/pages/Category"
+  },
+  {
+    "name": "checkout___en",
+    "path": "/checkout",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout.vue",
+    "children": [
+      {
+        "path": "order-review",
+        "name": "order-review___en",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\OrderReview.vue"
+      },
+      {
+        "path": "payment",
+        "name": "payment___en",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\Payment.vue"
+      },
+      {
+        "path": "personal-details",
+        "name": "personal-details___en",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\PersonalDetails.vue"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___en",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\Shipping.vue"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___en",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\ThankYou.vue"
+      }
+    ]
+  },
+  {
+    "name": "Checkout___en",
+    "path": "/Checkout",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout.vue",
+    "chunkName": "_theme/pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-OrderReview___en",
+        "path": "OrderReview",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\OrderReview.vue",
+        "chunkName": "_theme/pages/Checkout/OrderReview"
+      },
+      {
+        "name": "Checkout-Payment___en",
+        "path": "Payment",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\Payment.vue",
+        "chunkName": "_theme/pages/Checkout/Payment"
+      },
+      {
+        "name": "Checkout-PersonalDetails___en",
+        "path": "PersonalDetails",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\PersonalDetails.vue",
+        "chunkName": "_theme/pages/Checkout/PersonalDetails"
+      },
+      {
+        "name": "Checkout-Shipping___en",
+        "path": "Shipping",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "chunkName": "_theme/pages/Checkout/Shipping"
+      },
+      {
+        "name": "Checkout-ThankYou___en",
+        "path": "ThankYou",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "chunkName": "_theme/pages/Checkout/ThankYou"
+      }
+    ]
+  },
+  {
+    "name": "home___de",
+    "path": "/de",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Home.vue"
+  },
+  {
+    "name": "Home___en",
+    "path": "/Home",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Home.vue",
+    "chunkName": "_theme/pages/Home"
+  },
+  {
+    "name": "MyAccount___en",
+    "path": "/MyAccount",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount.vue",
+    "chunkName": "_theme/pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-BillingDetails___en",
+        "path": "BillingDetails",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "chunkName": "_theme/pages/MyAccount/BillingDetails"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___en",
+        "path": "LoyaltyCard",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "chunkName": "_theme/pages/MyAccount/LoyaltyCard"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___en",
+        "path": "MyNewsletter",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "chunkName": "_theme/pages/MyAccount/MyNewsletter"
+      },
+      {
+        "name": "MyAccount-MyProfile___en",
+        "path": "MyProfile",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "chunkName": "_theme/pages/MyAccount/MyProfile"
+      },
+      {
+        "name": "MyAccount-MyReviews___en",
+        "path": "MyReviews",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "chunkName": "_theme/pages/MyAccount/MyReviews"
+      },
+      {
+        "name": "MyAccount-OrderHistory___en",
+        "path": "OrderHistory",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "chunkName": "_theme/pages/MyAccount/OrderHistory"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___en",
+        "path": "ShippingDetails",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "chunkName": "_theme/pages/MyAccount/ShippingDetails"
+      }
+    ]
+  },
+  {
+    "name": "Product___en",
+    "path": "/Product",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Product.vue",
+    "chunkName": "_theme/pages/Product"
+  },
+  {
+    "name": "Category___de",
+    "path": "/de/Category",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Category.vue",
+    "chunkName": "_theme/pages/Category"
+  },
+  {
+    "name": "checkout___de",
+    "path": "/de/checkout",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout.vue",
+    "children": [
+      {
+        "path": "order-review",
+        "name": "order-review___de",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\OrderReview.vue"
+      },
+      {
+        "path": "payment",
+        "name": "payment___de",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\Payment.vue"
+      },
+      {
+        "path": "personal-details",
+        "name": "personal-details___de",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\PersonalDetails.vue"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___de",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\Shipping.vue"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___de",
+        "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Checkout\\ThankYou.vue"
+      }
+    ]
+  },
+  {
+    "name": "Checkout___de",
+    "path": "/de/Checkout",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout.vue",
+    "chunkName": "_theme/pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-OrderReview___de",
+        "path": "OrderReview",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\OrderReview.vue",
+        "chunkName": "_theme/pages/Checkout/OrderReview"
+      },
+      {
+        "name": "Checkout-Payment___de",
+        "path": "Payment",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\Payment.vue",
+        "chunkName": "_theme/pages/Checkout/Payment"
+      },
+      {
+        "name": "Checkout-PersonalDetails___de",
+        "path": "PersonalDetails",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\PersonalDetails.vue",
+        "chunkName": "_theme/pages/Checkout/PersonalDetails"
+      },
+      {
+        "name": "Checkout-Shipping___de",
+        "path": "Shipping",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "chunkName": "_theme/pages/Checkout/Shipping"
+      },
+      {
+        "name": "Checkout-ThankYou___de",
+        "path": "ThankYou",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "chunkName": "_theme/pages/Checkout/ThankYou"
+      }
+    ]
+  },
+  {
+    "name": "Home___de",
+    "path": "/de/Home",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Home.vue",
+    "chunkName": "_theme/pages/Home"
+  },
+  {
+    "name": "MyAccount___de",
+    "path": "/de/MyAccount",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount.vue",
+    "chunkName": "_theme/pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-BillingDetails___de",
+        "path": "BillingDetails",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "chunkName": "_theme/pages/MyAccount/BillingDetails"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___de",
+        "path": "LoyaltyCard",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "chunkName": "_theme/pages/MyAccount/LoyaltyCard"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___de",
+        "path": "MyNewsletter",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "chunkName": "_theme/pages/MyAccount/MyNewsletter"
+      },
+      {
+        "name": "MyAccount-MyProfile___de",
+        "path": "MyProfile",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "chunkName": "_theme/pages/MyAccount/MyProfile"
+      },
+      {
+        "name": "MyAccount-MyReviews___de",
+        "path": "MyReviews",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "chunkName": "_theme/pages/MyAccount/MyReviews"
+      },
+      {
+        "name": "MyAccount-OrderHistory___de",
+        "path": "OrderHistory",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "chunkName": "_theme/pages/MyAccount/OrderHistory"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___de",
+        "path": "ShippingDetails",
+        "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "chunkName": "_theme/pages/MyAccount/ShippingDetails"
+      }
+    ]
+  },
+  {
+    "name": "Product___de",
+    "path": "/de/Product",
+    "component": "E:\\\\PRASAD\\\\Dasha\\\\23-03-2021\\\\shopify\\\\packages\\\\theme\\\\_theme\\\\pages\\\\Product.vue",
+    "chunkName": "_theme/pages/Product"
+  },
+  {
+    "name": "my-account___de",
+    "path": "/de/my-account/:pageName?",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\MyAccount.vue"
+  },
+  {
+    "name": "product___de",
+    "path": "/de/p/:id/:slug",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Product.vue"
+  },
+  {
+    "name": "category___de",
+    "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Category.vue"
+  },
+  {
+    "name": "my-account___en",
+    "path": "/my-account/:pageName?",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\MyAccount.vue"
+  },
+  {
+    "name": "product___en",
+    "path": "/p/:id/:slug",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Product.vue"
+  },
+  {
+    "name": "category___en",
+    "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Category.vue"
+  },
+  {
+    "name": "home___en",
+    "path": "/",
+    "component": "E:\\PRASAD\\Dasha\\23-03-2021\\shopify\\packages\\theme\\_theme\\pages\\Home.vue"
+  }
+]
